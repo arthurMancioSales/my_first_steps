@@ -1,0 +1,1 @@
+olá mundo, esse é meu primeiro arquivo .txt feito por bash
